@@ -1,0 +1,4 @@
+A sample for the weirdness of the empty / unnamed package in Scala / Java.
+
+See http://stackoverflow.com/questions/2030148/whats-the-syntax-to-import-a-class-in-a-default-package-in-java and http://stackoverflow.com/questions/9822008/why-is-my-object-not-a-member-of-package-root-if-its-in-a-separate-source-fil .
+
